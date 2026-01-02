@@ -1,7 +1,9 @@
 # Asynchronous_Playwright
 
 To be installed 
+
 >pip install pytest pytest-asyncio playwright
+
 >playwright install
 
 **[pytest]
