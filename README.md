@@ -1,4 +1,4 @@
-# Asynchoronous_Playwright
+# Asynchronous_Playwright
 
 To be installed 
 >pip install pytest pytest-asyncio playwright
